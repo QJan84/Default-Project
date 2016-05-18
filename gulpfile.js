@@ -85,6 +85,7 @@ gulp.task('default', ['serve', 'sass', 'js'], function () {
 });
 
 // Optimizing Images
+
 gulp.task('img', ['tinypng']);
 
 // ## 
