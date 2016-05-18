@@ -1,0 +1,13 @@
+body {
+	background-color: blue;
+	color: red;
+}
+
+.shadow {
+	padding: 5rem;
+	width: 15rem;
+	background-color: #fff;
+	box-shadow: 0 50px 150px rgba(0,0,0,.85);
+	display: flex;
+	transition: all 250ms;
+}

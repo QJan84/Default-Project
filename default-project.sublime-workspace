@@ -1,0 +1,1106 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-center"
+			],
+			[
+				"close",
+				"closest	.closest()"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"line",
+				"line-height-lg"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"ini",
+				"inherit"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"boder",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size-sm"
+			],
+			[
+				"font-size",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"line-",
+				"line-height-lg"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"txt-blue",
+				"txt-blue-light"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"addr",
+				"Address"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"auro",
+				"auro-blue"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"bod",
+				"body-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"body",
+				"body-color"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"display",
+				"flex-display"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"txt_a",
+				"txt_absenden"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"fade",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"TOGG",
+				"fadeToggle"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"border-top",
+				"border-top"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"round",
+				"round-icon"
+			],
+			[
+				"text",
+				"text-muted"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"border-le",
+				"border-left-color"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tab",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 683,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 537,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dist/css/master.css",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/master.scss",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Title Case"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 318.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jan/websites/default-project",
+		"/C/Users/Jan/websites/default-project/bower_components",
+		"/C/Users/Jan/websites/default-project/dist",
+		"/C/Users/Jan/websites/default-project/dist/css",
+		"/C/Users/Jan/websites/default-project/src",
+		"/C/Users/Jan/websites/default-project/src/scss"
+	],
+	"file_history":
+	[
+		"/C/Users/Jan/websites/default-project/src/scss/master.scss",
+		"/C/Users/Jan/websites/default-project/src/scss/_custom-mixins.scss",
+		"/C/Users/Jan/websites/default-project/src/scss/_variables.scss",
+		"/C/Users/Jan/websites/default-project/src/scss/_components.scss",
+		"/C/Users/Jan/websites/default-project/src/scss/_styles.scss",
+		"/C/Users/Jan/websites/default-project/src/scss/_responsive.scss",
+		"/C/Users/Jan/websites/default-project/package.json",
+		"/C/Users/Jan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7DHWF3JH/email.txt",
+		"/C/Users/Jan/InStabilityNewsletter/src/layouts/default.html",
+		"/C/Users/Jan/Desktop/index.html",
+		"/C/Users/Jan/InStabilityNewsletter/src/assets/scss/app.scss",
+		"/Z/in-stability-relaunch.de/newsletter/package.json",
+		"/Z/in-stability-relaunch.de/newsletter/css/foundation.css",
+		"/Z/in-stability-relaunch.de/newsletter/index.html",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/product.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/page-elements.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/master.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/portfolio.tmpl",
+		"/Z/auro.de_2016/src/js/script.js",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-tab.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/steps.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/product-list.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/rohstoffkunde.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-hgroup.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/dealer.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/autocomplete.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/homepage.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/navigation.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/inner-outer-block.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/list.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/header.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/inhaltsseite-geschuetzt.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_geschuetzt/login-ueberpruefung.tmpl",
+		"/Z/auro.de_2016/src/scss/_custom-mixins.scss",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/WE-Seite-spiegeln.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-link-list.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-media-left.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-card.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-media-left-2cols.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-post.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-txt.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-txt-2cols.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/breadcrumb.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_pagetypes/inhaltsseite.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-videos.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-sidebar.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-quote.tmpl",
+		"/Z/auro.de_2016/html-templates/_pagetypes/product.php",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-author.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/product-overview.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-timeline.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/inhaltsseite-content.tmpl",
+		"/Z/auro.de_2016/html-templates/_pagetypes/about.php",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-hr.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/page-elements-sidebar.tmpl",
+		"/Z/auro.de_2016/html-templates/_pagetypes/portfolio.php",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/videos.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/element-lightbox.tmpl",
+		"/Z/auro.de_2016/html-templates/master.php",
+		"/Z/auro.de_2016/html-templates/_pagetypes/dealer.php",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/portfolio.tmpl",
+		"/Z/auro.de_2016/_standards/php/functions.php",
+		"/Z/auro.de_2016/html-templates/_pagetypes/text.php",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/listen-mit-optionalem-bild.tmpl",
+		"/Z/auro.de_2016/html-templates/_pagetypes/steps.php",
+		"/Z/auro.de/[webEdition_Templates]/_includes/schritt-anleitung.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/repraesentantensuche.tmpl",
+		"/Z/auro.de_2016/img/logo-auro-classic-edition.svg",
+		"/Z/auro.de_2016/[webEdition_Templates]/inhaltsseite.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/footer.tmpl",
+		"/Z/auro.de_2016/[webEdition_Templates]/_includes/produkte_uebersicht.tmpl",
+		"/Z/auro.de_2016/sftp-config.json",
+		"/Z/auro.de_2016/html-templates/_includes/nav.php",
+		"/Z/auro.de_2016/html-templates/produkt.php",
+		"/Z/auro.de_2016/src/scss/_theme.scss",
+		"/Z/auro.de_2016/src/scss/master.scss",
+		"/Z/auro.de_2016/src/scss/_custom-variables.scss",
+		"/Z/auro.de_2016/dist/css/master.css",
+		"/Z/auro.goldorange.com/html-templates/produkt.php",
+		"/Z/auro.goldorange.com/html-templates/_includes/header.php",
+		"/Z/auro.goldorange.com/html-templates/_includes/breadcrumb.php",
+		"/Z/auro.goldorange.com/html-templates/_includes/lma.php",
+		"/Z/auro.goldorange.com/html-templates/_includes/footer.php",
+		"/Z/auro.goldorange.com/html-templates/_includes/nav.php",
+		"/Z/auro.goldorange.com/html-templates/_pagetypes/product.php",
+		"/Z/auro.goldorange.com/html-templates/_includes/header.tmpl",
+		"/Z/auro.goldorange.com/src/scss/master.scss",
+		"/Z/auro.goldorange.com/src/scss/_custom-mixins.scss",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/_buttons.scss",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/_button-group.scss",
+		"/Z/auro.goldorange.com/package.json",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/_reboot.scss",
+		"/Z/auro.goldorange.com/dist/css/master.css",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/bootstrap.scss",
+		"/Z/auro.goldorange.com/src/js/plugins.js",
+		"/Z/auro.goldorange.com/img/placeholder/label-agbb-geprueft.jpg",
+		"/Z/auro.goldorange.com/dist/css/icons.css",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/mixins/_buttons.scss",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/mixins/_border-radius.scss",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/_mixins.scss",
+		"/C/Users/Jan/Desktop/styles.css",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/_variables.scss",
+		"/Z/auro.goldorange.com/dist/js/master.js",
+		"/Z/auro.goldorange.com/sftp-config.json",
+		"/C/Users/Jan/Desktop/bootstrap-4.0.0-alpha.2/dist/js/bootstrap.min.js",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/js/dropdown.js",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/js/util.js",
+		"/C/Users/Jan/Desktop/bootstrap-4.0.0-alpha.2/js/dist/dropdown.js",
+		"/C/Users/Jan/Desktop/bootstrap-4.0.0-alpha.2/js/src/dropdown.js",
+		"/Z/auro.goldorange.com/src/bootstrap-untouched/sass/_animation.scss",
+		"/Z/in-stability-relaunch.de/[webEdition-Templates]/_pagetypes/teaser.tmpl",
+		"/Z/in-stability-relaunch.de/less/master.less",
+		"/C/Users/Jan/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/C/Users/Jan/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/C/Users/Jan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Z/auro.goldorange.com/dist/css/master.css.map",
+		"/C/Users/Jan/Desktop/master.css",
+		"/C/Users/Jan/Desktop/master.scss",
+		"/C/Users/Jan/Desktop/package.json",
+		"/Z/auro.goldorange.com/src/scss/_plugins.scss",
+		"/Z/auro.goldorange.com/assets/js/jquery.min.js",
+		"/Z/auro.goldorange.com/assets/js/ie10-viewport-bug-workaround.js",
+		"/Z/auro.goldorange.com/sass/imports/custom-mixins.scss",
+		"/Z/auro.goldorange.com/sass/imports/custom-variables.scss",
+		"/Z/auro.goldorange.com/sass/imports/plugins.scss",
+		"/Z/auro.goldorange.com/sass/imports/responsive.scss",
+		"/Z/auro.goldorange.com/sass/imports/theme.scss",
+		"/Z/auro.goldorange.com/sass/imports/components.scss"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"Z:\\iph-hannover.de",
+			"Z:\\",
+			"Z:\\setron.internetshop.cc",
+			"Z:\\setron.internetshop.cc\\shop",
+			"Z:\\setron.internetshop.cc",
+			"Z:\\setron.internetshop.cc\\shop\\app",
+			"Z:\\setron.internetshop.cc"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Introduction ",
+			"list-meta",
+			"addon",
+			"meta",
+			"content",
+			"loop-element",
+			"link",
+			"center",
+			"  <",
+			"0",
+			"black",
+			"link",
+			"body",
+			"markerImageSvg",
+			"is-hidden",
+			"bal.is-hid",
+			"coordinates",
+			"socials",
+			"onHashchange",
+			"grid",
+			"panel-group",
+			"txt_prodicon_",
+			"wrap-tabs",
+			"wrap-item",
+			"add-",
+			"flex",
+			"wrap-item",
+			"wrap-materials",
+			"hidden-content",
+			"wrap-grid",
+			"wrap-item",
+			"post-c",
+			"m-t",
+			"haendlerbild_1",
+			"form",
+			"post-module",
+			"$overlay-rgb",
+			"wrap-full-width",
+			"wrap-dd",
+			"quick-links",
+			"list",
+			"dropdown",
+			"wrap-logo",
+			"wrap-action-links",
+			"action-icons",
+			"wrap-action-links",
+			"nav",
+			"sidebar-nav",
+			">\n",
+			"wrap-list",
+			"Info",
+			"show",
+			"more",
+			"standort",
+			"link",
+			"maps",
+			"wrap-searchfield",
+			"header-global",
+			"border-right",
+			"logoid",
+			"dealer-infos",
+			"img",
+			"wrap-item",
+			".wrap-item",
+			"wrap-item",
+			"header ",
+			"weniger",
+			".show-more",
+			"ellipsis-multiline",
+			"list-item",
+			"logo",
+			"action-links",
+			"12rem",
+			"section",
+			"wrap-main",
+			"swiper-slide",
+			"InfoWindow",
+			"light",
+			"e10505 ",
+			"dealer-name",
+			"dealer-address",
+			"showdate",
+			"auro_table",
+			"auro_linkliste2",
+			"auro_linkliste1",
+			"auro_aussen",
+			"16907",
+			"initMap",
+			"map",
+			"red",
+			"getNorthEast",
+			"fitBounds",
+			"getBounds",
+			"infowindow",
+			"info\ninfo",
+			"info",
+			"add-scrollbar",
+			"1.25rem",
+			"form-contro",
+			"shadow",
+			"makeSidebar",
+			"side_bar",
+			"parse",
+			"makeSidebar",
+			"initMap",
+			"box",
+			"dropdown",
+			"pre",
+			"textarea",
+			"breadcrumb",
+			"searchbox-open",
+			"link",
+			"links",
+			"wrap-ac",
+			"searchbox-icon",
+			"action",
+			".action-icons",
+			".wrap-action-links",
+			"wrap-action-links",
+			"Card Set hinzufügen",
+			"nav-status",
+			"tabs",
+			"videos",
+			"wrap",
+			"sidebar",
+			"selectGrid",
+			"blockAddCard",
+			"block"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lnk-hover-",
+			"",
+			"</dl>",
+			"<dl class=\"dl-horizontal\">",
+			"",
+			"</dt>",
+			"<dt>",
+			"</dd>",
+			"<dd>",
+			"form-control",
+			"<div class=\"col-sm-8 col-md-9\">",
+			"col-sm-4 col-md-3 control-label",
+			"form-group",
+			"<div class=\"col-sm-8 col-md-9\">",
+			"",
+			"/>",
+			"<div class=\"row\">",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dist/css/master.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/scss/master.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/scss/_styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								255
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Espresso Soda.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.find_results":
+	{
+		"height": 431.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "default-project.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"homepage",
+				"shop\\app\\design\\frontend\\b-responsive\\default\\template\\page\\html\\homepage.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\GOLDORANGE2\\websites\\pbpi.goldorange.com\\pbpi.de.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 432.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+//	bootstrap core (never modify these files)
+@import "/bower_components/bootstrap/dist/css/bootstrap.min.css";
+
+//	advanced custom mixins
+@import "../scss/_custom-mixins.scss";
+
+//	color, margin, font-size etc.
+@import "../scss/_variables.scss";
+
+//	frequently used elements, such as quotes, lists etc.
+@import "../scss/_components.scss";
+
+//	Default Styles (Main File)
+@import "../scss/_styles.scss";
+
+//	Responsive Styles
+@import "../scss/_responsive.scss";

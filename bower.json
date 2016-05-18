@@ -1,0 +1,22 @@
+{
+  "name": "default-project",
+  "description": "Default project files",
+  "main": "index.js",
+  "authors": [
+    "Jan Gehring"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "v4.0.0-alpha.2",
+    "modernizr": "^3.3.1"
+  }
+}

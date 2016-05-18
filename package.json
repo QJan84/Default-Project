@@ -1,0 +1,40 @@
+{
+  "name": "default-setup",
+  "version": "1.0.0",
+  "description": "Default project files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Gehring",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-sass": "^2.3.1",
+    "imagemin-pngquant": "^5.0.0",
+    "jshint": "^2.9.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^0.4.5",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-connect-php": "0.0.7",
+    "gulp-deploy-git": "^0.5.3",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^1.5.3",
+    "http-proxy": "^1.13.2",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "run-sequence": "^1.1.5"
+  }
+}
