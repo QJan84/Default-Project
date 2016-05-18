@@ -30,6 +30,10 @@ var config = {
       // Bootstrap
       'bower_components/bootstrap/js/dist/dropdown.js',
       'bower_components/bootstrap/js/dist/collapse.js',
+      // Swiper
+      'bower_components/Swiper/dist/swiper.min.js',
+      // Lightgallery
+      'bower_components/lightgallery/dist/js/lightgallery.min.js',
       // Default scripts
       'src/js/**/*.js'
     ]
@@ -49,7 +53,7 @@ gulp.task('js', function () {
     .pipe(browserSync.stream());
 });
 
-//**   Optimizing Images - tinypng.com (max 500 images per month for free)
+//**  oooOptimizing Images - tinypng.com (max 500 images per month for free)
 
 gulp.task('tinypng', function () {
   gulp.src('src/img/**/*.{png,jpg,jpeg}')
