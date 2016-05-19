@@ -26,6 +26,7 @@
     "gulp-concat": "^2.6.0",
     "gulp-concat-css": "^2.2.0",
     "gulp-connect-php": "0.0.7",
+    "gulp-deploy-ftp": "0.0.2",
     "gulp-deploy-git": "^0.5.3",
     "gulp-imagemin": "^3.0.1",
     "gulp-jshint": "^2.0.1",
